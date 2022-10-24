@@ -1,0 +1,3 @@
+Preciso rever as aulas do curso de introdução.
+Link para download do Git: https://git-scm.com/download/win
+Preciso verificar porque não consegui criar a pasta .git

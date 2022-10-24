@@ -1,2 +1,2 @@
 # Primeiro-desafio-de-projeto-Dio
-Primeiro desafio entregue na plataforma DIO.
+Repositório criado para o primeiro desafio entregue na plataforma DIO.
